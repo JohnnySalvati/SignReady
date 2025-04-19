@@ -1,8 +1,8 @@
 build
 dist
 venv
-desencriptados
-errores
-para procesar
-procesados
+desencriptados\*.pdf
+errores\*.pdf
+para procesar\*.pdf
+procesados\*.pdf
 
