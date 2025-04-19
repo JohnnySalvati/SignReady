@@ -1,0 +1,3 @@
+pikepdf
+pdfplumber
+pyinstaller
